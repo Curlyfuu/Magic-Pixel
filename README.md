@@ -7,4 +7,5 @@ example
 import MagicPixel.py
 ```
 then:
+--------------
 ![](https://github.com/wake-up-smiling/Magic-Pixel/blob/master/effect.png)
