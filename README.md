@@ -1,8 +1,9 @@
 This is an simple GUI to set a color by using tkinter.
 ===========================================
-##How to use:
+How to use:
 ------------
 example
+------------
 ```Python
 import MagicPixel.py
 ```
