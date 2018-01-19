@@ -3,5 +3,6 @@ This is an simple GUI to set a color by using tkinter.
 example
 ```Python
 import MagicPixel.py
+```
 then:
 ![](https://github.com/wake-up-smiling/Magic-Pixel/effect.png)
