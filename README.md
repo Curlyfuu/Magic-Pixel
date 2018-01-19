@@ -1,0 +1,1 @@
+This is an simple GUI to set a color by using tkinter.
